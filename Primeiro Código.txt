@@ -1,0 +1,8 @@
+<!DOCYTIPE html>
+<html lang="pt-br>
+<head>
+	<title>Meu projeto</title>
+</head>
+<body>
+	<h1>Hello World</h1>
+</body>
